@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related Prod APIs "
+  contactDetails:
+    name: "Smitha Ray - Prod Lead"
+    email: "smitha@eazybank.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
